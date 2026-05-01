@@ -1,8 +1,8 @@
 # Bitcoin Node Dashboard
 
+![License](https://img.shields.io/badge/license-MIT-green)
 ![Shell](https://img.shields.io/badge/shell-bash-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%20%7C%20Linux-lightgrey.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A terminal dashboard for monitoring a Bitcoin full node on Raspberry Pi. Displays host stats, resource usage, blockchain sync status, peer count and mempool info.
 
